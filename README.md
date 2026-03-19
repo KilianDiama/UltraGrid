@@ -1,4 +1,4 @@
-# ⚡ UltraGrid — High-Performance Distributed Energy Simulation Engine (a little test for petrol down)
+# ⚡ UltraGrid — High-Performance Distributed Energy Simulation Engine 
 
 UltraGrid is a **high-performance C++20 simulation engine** designed to model **decentralized energy grids** with millions of agents in real time.
 
