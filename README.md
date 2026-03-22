@@ -1,3 +1,4 @@
+⚡ Engineered by Kiliandiama | The Diama Protocol [10/10] | All rights reserved.
 # ⚡ UltraGrid — High-Performance Distributed Energy Simulation Engine 
 
 UltraGrid is a **high-performance C++20 simulation engine** designed to model **decentralized energy grids** with millions of agents in real time.
